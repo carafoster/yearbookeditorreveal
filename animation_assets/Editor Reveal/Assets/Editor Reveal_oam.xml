@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="Editor Reveal" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_97.png" width="1280" height="800"/>
+<require type="other" src="Editor Reveal.html"/>
+<require type="javascript" src="Editor Reveal.js"/>
+<require type="image" src="images/CachedTexturedBitmap_1080.png"/>
+<require type="image" src="images/CachedTexturedBitmap_1081.png"/>
+<require type="image" src="images/CachedTexturedBitmap_1082.png"/>
+<require type="image" src="images/Editor Reveal_atlas_.png"/>
+<require type="image" src="images/Editor Reveal_atlas_2.png"/>
+<require type="image" src="images/Editor Reveal_atlas_3.png"/>
+<require type="folder" src="images/"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="1280" hidden="true"/>
+<property name="default-height" defaultValue="800" hidden="true"/>
+<property name="resizable" defaultValue="false" hidden="true"/>
+<property name="centering" defaultValue="" hidden="true"/>
+<property name="scaling" defaultValue="" hidden="true"/>
+<property name="html-page" defaultValue="Editor Reveal.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>
